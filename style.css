@@ -1,0 +1,14 @@
+button {
+    margin: 1em;
+}
+
+.parent {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+
+#chronometer {
+    font-family: 'Helvetica', sans-serif;
+    padding: 1em;
+}
